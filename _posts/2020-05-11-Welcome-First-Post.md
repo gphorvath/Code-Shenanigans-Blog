@@ -1,8 +1,9 @@
 ---
-layout: post
-title: Welcome to Code Shenanigans Blog!
-date: 2020-05-11
-categories: welcome general
+layout: post  
+title: Welcome to Code Shenanigans Blog!  
+author: Gregory Horvath  
+date: 2020-05-11  
+tags: welcome general  
 ---
 
 Welcome all to my new blog. It took time to overcome my apprehension and post this, but I quote one of my favorite novels:  
