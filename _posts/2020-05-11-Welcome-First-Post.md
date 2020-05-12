@@ -6,7 +6,7 @@ date: 2020-05-11
 tags: welcome general  
 ---
 
-Welcome all to my new blog. It took time to overcome my apprehension and post this, but I quote one of my favorite novels:  
+Welcome all to my new blog. It took time to overcome my apprehension and post this, but I quote one of my favorite books:  
 > **It’s the job that’s never started as takes longest to finish...**  
 >  _Sam Gamgee. The Fellowship of the Ring. Book Two. VII. The Mirror of Galadriel._  
 
