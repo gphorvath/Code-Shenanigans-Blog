@@ -10,7 +10,7 @@ This is really my first journey into blogging and developing a public portfolio.
 
 First off, I would like to mention that this blog is a public hosted [Github Project](https://github.com/gphorvath/Code-Shenanigans-Blog). The terms of use are in the LICENSE file. To build a blog similar to this one the first tools I began with are [Jekyll](https://jekyllrb.com/) and [Github Pages](https://pages.github.com/). Jekyll is practically made for Github pages, as you can see on their page, they are hosted by Github and have tutorials to getting setup. One thing that is important to consider before setting up your environment is that Github limits versions of some dependencies, including Jekyll. Check [this list](https://pages.github.com/versions/) to find out what versions to use in your environment - I saved you from finding this out the hard way.  
 
-So, how do you get started with Jekyll? [Cloud Cannon](https://learn.cloudcannon.com/) will gently introduce you to all the features. In my case I choose the barbaric approach - I fired up Linux subsystem for Windows, busted out Vim, and followed the [Jekyll Documentation](https://jekyllrb.com/docs/) to work through setting up my own environment.  
+So, how do you get started with Jekyll? [Cloud Cannon](https://learn.cloudcannon.com/) will gently introduce you to all the features. In my case I chose the barbaric approach - I fired up Linux subsystem for Windows, busted out Vim, and followed the [Jekyll Documentation](https://jekyllrb.com/docs/) to work through setting up my own environment.  
 
 Subsequent posts on this topic will discuss how I add new features to the blog. In time, I intend to work through adding comments, site analytics, and navigation interfaces.  
 
