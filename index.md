@@ -1,3 +1,9 @@
+---
+layout: default  
+title: Home  
+navigation_weight: 1  
+---
+
 # Welcome to Code Shenanigans Blog
 
 <ul>
