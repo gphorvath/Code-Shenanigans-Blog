@@ -1,0 +1,19 @@
+<!-- Gitalk comment start  -->
+
+<!-- Link Gitalk  -->
+<link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+<script src="https://unpkg.com/gitalk@latest/dist/gitalk.min.js"></script> 
+<div id="gitalk-container"></div>     
+<script type="text/javascript">
+  var gitalk = new Gitalk({
+    // Gitalk parameters
+      clientID: '63a8d1e32d46e78f7019',
+      clientSecret: 'd54c243dc4d7b0aa5d40fd92b354f4fecb65114f',
+      repo: 'https://callshenanigans.com', //customize
+      owner: 'gphorvath', //customize
+      admin: 'gphorvath', //customize
+      id: window.location.pathname, // leave this line as it is
+  });
+gitalk.render('gitalk-container');
+</script> 
+<!-- Gitalk end -->
