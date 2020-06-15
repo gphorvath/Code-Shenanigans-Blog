@@ -1,8 +1,8 @@
 ---
 layout: post  
-title: Welcome to Code Shenanigans Blog!  
+title: Book Review: Software Engineering at Google
 author: Gregory Horvath  
-date: 2020-05-11  
+date: 2020-06-15 
 tags: literature book-review 
 ---
 
