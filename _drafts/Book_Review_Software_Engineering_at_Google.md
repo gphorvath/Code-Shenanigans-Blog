@@ -1,9 +1,9 @@
 ---
 layout: post  
-title: Book Review: Software Engineering at Google
-author: Gregory Horvath  
-date: 2020-06-15 
-tags: literature book-review 
+title: Book Review - Software Engineering at Google  
+author: Gregory Horvath   
+date: 2020-06-15  
+tags: literature book-review  
 ---
 
 # Overview / Introduction  
