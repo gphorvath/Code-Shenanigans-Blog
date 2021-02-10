@@ -16,6 +16,20 @@ To update:
 bundle exec update
 ```
 
+# Directory Structure
+```
+.
+├── _drafts
+│   └── Work In progress posts go here.
+├── _posts
+│   └── Published Posts Go Here
+|...
+├── blog.html
+└── index.md
+```
+
+
+
 # References
 Created using Jekyll: https://jekyllrb.com/
 
