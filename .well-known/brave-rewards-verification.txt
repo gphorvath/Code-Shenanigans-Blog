@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: callshenanigans.com
+Token: f775ea9e45ac97df733f16e34d217853746e1f13a844f4c6597222bd6b4a2881

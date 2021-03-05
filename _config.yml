@@ -1,3 +1,5 @@
 title: Code Shenanigans Blog
 theme: jekyll-theme-hacker
 google_analytics: UA-167338577-1
+
+include: ['.well-known']
